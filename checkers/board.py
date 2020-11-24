@@ -3,6 +3,7 @@ from .constants import BLACK, ROWS, RED, SQUARE_SIZE, COLS, WHITE
 from .piece import Piece
 
 
+# Board Class
 class Board:
     def __init__(self):
         self.board = []

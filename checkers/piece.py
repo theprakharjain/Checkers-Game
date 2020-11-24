@@ -1,7 +1,7 @@
 import pygame
 from .constants import RED, BLACK, SQUARE_SIZE, GREY, CROWN
 
-
+# Piece Class
 class Piece():
 
     PADDING = 15

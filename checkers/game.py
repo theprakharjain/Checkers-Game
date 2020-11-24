@@ -2,7 +2,7 @@ import pygame
 from .constants import BLACK, ROWS, RED, SQUARE_SIZE, COLS, WHITE
 from .board import Board
 
-
+# Game Class
 class Game:
     def __init__(self, win):
         self.selected = None
